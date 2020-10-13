@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Jared Cole
 tagline: Communicator of Academic Proportions
-featuredImage: /assets/jaredvt.jpg
+featuredImage: /assets/jaredlcvt.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
