@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "I'm a Hokie",
+    "title": "Jared Cole Research",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://lucid-hodgkin-d56e51.netlify.app/",
-    "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "This is the research site for Jared Cole. He specializes in communication, Artificial Intelligence, machine agency, Actor-Network Theory, and Internet of Things.",
+    "siteUrl": "https://jaredcole.netlify.app/",
+    "image": "/assets/mefinal.jpg",
+    "twitterUsername": "@Mangoismynameo"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "G-7SKCH8KGK9"
 }
