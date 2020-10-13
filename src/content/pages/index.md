@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Hokie Lopez
-tagline: Hokie and Awesome Person
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Jared Cole
+tagline: Communicator of Academic Proportions
+featuredImage: /assets/jcvt.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He loves VT and the good life.
+Currently a first year graduate student at Virginia Tech School of Communication
