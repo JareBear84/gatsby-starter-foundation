@@ -2,7 +2,7 @@
 template: blog-post
 title: "The Research Devil is in the Details: Grounded Theory"
 slug: /grounded-theory-devil
-date: 2020-11-04 00:31
+date: 2020-10-12 00:31
 description: Grounded theory is a theory-creating theory from data after
   observing a field. That infuriated me, so I talk to the Research Devil about
   my frustrations with grounded theory and beginning in academia.
