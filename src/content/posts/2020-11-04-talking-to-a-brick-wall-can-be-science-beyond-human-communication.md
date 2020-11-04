@@ -2,7 +2,7 @@
 template: blog-post
 title: "Talking to a Brick Wall Can be Science!: Beyond Human Communication"
 slug: /beyond-human-communication-brick-wall
-date: 2020-11-04 15:04
+date: 2020-10-07 15:04
 description: I was excited to read about actor network theory since I am hoping
   to base my thesis around AI, however, the book uses the example of physical
   relations with buildings. I hate people.
