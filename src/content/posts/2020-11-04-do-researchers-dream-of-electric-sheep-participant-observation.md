@@ -2,7 +2,7 @@
 template: blog-post
 title: "Do Researchers Dream of Electric Sheep?: Participant Observation"
 slug: /participant-observation-electric-sheep
-date: 2020-11-04 00:24
+date: 2020-09-21 00:24
 description: Do researchers sacrifice their humanity when they become the tools
   of quantitative research by reducing the change of "going primal" and losing
   objectivity?
