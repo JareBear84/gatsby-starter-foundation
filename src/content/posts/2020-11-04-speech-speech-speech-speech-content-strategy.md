@@ -1,0 +1,30 @@
+---
+template: blog-post
+title: "Speech! Speech! Speech! Speech!: Content Strategy"
+slug: /content-strategy-speech
+date: 2020-10-06 12:47
+description: You can not have effective content management or creation without a
+  solid content strategy.
+featuredImage: /assets/the-microphone.jpg
+---
+All the way back in the mid 1990s, Mrs. James was teaching her class of sixth graders, including me, on the basics of giving a speech. She started by outlining the typical model of speeches and essays that dominate the public education, almost to a fault - introduction, three main points with commentary, and a conclusion that summarizes the speech. Mrs. James skipped talking about the introduction and taught about the body and conclusion, ending with the introduction. To teach the introduction, she called Melissa to stand before the class.
+
+“Melissa.” she said, “introduce the invisible friend standing next to you.” Looking to her left and right, Melissa gave Mrs. James a clearly visible look of confusion mixed with panic as she shrugged with her mouth agape. Mrs. James replied, “How can you introduce someone who doesn’t exist yet? The same goes for your speech. How can you write an introduction to a speech that hasn’t been written yet? It’s a smart idea to write your body first before writing the into.” That adage has stuck with me throughout my academic and professional career. The same philosophy can be applied to the readings in the book by Rahel Anne Bailie and Noz Urbina (2013) - How can you create or produce content if you do not have your strategy developed first?
+
+As a professional who considers himself a content creator, the information in the book was not overly new or eye-opening. And if I may be honest, some of it is is a little outdated. GetGlue is a name I haven’t heard in years. If it helped profoundly change the way organizations engaged with their communities (Bailie & Urbina, 2013), I am sure it is a widely profitable company that is still active today... Except, it shut down in 2014 (Roettgers, 2014). However, the readings did help me learn to take a step back and realize that there is more to content and content management than just marketing. The last few chapters helped me realize the importance of after-the-fact content is important as well. It’s like the speech is not over after the presentation, there needs to be time given for questions and answers.
+
+Speaking of the speech analogy, content is not just the words in the speech with the dictation of pauses and emphasis, but the nonverbal body language, the type of clothing worn, the attitude of the presenter, etc., too - just like content strategy and content itself isn’t just whatever the communications specialist submits. It is also the training materials, the technical manuals, the customer support documents, and more.
+
+While the book did not mention it. But I would consider internal content, like employee benefit and policy information creation as content as well. Information from Human Resources should comply with brand standards and fit with strategy to align with company goals. Internal content can also be considered content since the ROI can be “measured by reduced training expenses” (Bailie & Urbina, 2013, p.14). But how do you prove that a qualitative idea like content and its strategy can demonstrate ROI? That has been the million-dollar questions for communicators, marketers and PR professionals alike. We often try to compare it to money saved in free advertising. A successful pitch could mean a spot in the newspaper that would normally cost X amount of dollars in advertising. I also like how Chapter 12 explains it in lost sales.
+
+The readings also made me question how much of what I learned about successful marketing of the late 2000s/early 2010s is outdated. The talk of communication and marketing was inbound marketing. This strategy was used to generate remarkable content to make your website a water cooler for potential customers to meet, learn, engage and funnel into the sales pipeline. The idea was to create as much content as possible to generate SEO search-based campaigns, but the readings argue simplifying the content to ensure the relevant information is at the front of the page (Bailie & Urbina, 2013, pp. 17-18). Maybe this concept has changed since Google’s SEO algorithms have changed exponentially since then. Maybe there is still a balance and the two concepts are mutually exclusive.
+
+I also appreciate the concepts of centralized governance. Before coming to VT, I was responsible for managing risk for Langston University’s website during accreditation in 2017. I also specialized in content skills as all departments that submitted website content had to be reviewed and edited by my PR co-workers and me. My last observation came towards the end of the readings. I would argue that chapter 10 takes part in actor-network theory in that marketing materials, technical documents, training modules, etc. are all actors that play into a network that is content.
+
+There was a lot of information to digest and condense in hopes of filling two or three pages of a critical reading response. However, Just like Melissa, who was a smart and capable girl, standing around, unable to tell Mrs. James who her imaginary friend was, this book helps bring the concept of content strategy not to only professionals looking to improve and expand the idea of their work, but also for executive administrators understand the importance of content and it’s strategy.
+
+**References**
+
+Bailie, R. A., & Urbina, N. (2013). *Content strategy: Connecting the dots between business, brand, and benefits*. XML Press.
+
+Roettgers, J. (2014, December 19). *GetGlue successor TVtag is shutting down*. GigaOm. https://gigaom.com/2014/12/19/getglue-successor-tvtag-is-shutting-down/
