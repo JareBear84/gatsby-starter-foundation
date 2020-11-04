@@ -3,7 +3,7 @@ template: blog-post
 title: "Research is the Divine Bovine: Approaches to Qualitative Communication
   in Research"
 slug: /communications-research-divine-bovine
-date: 2020-11-04 00:12
+date: 2020-09-14 00:12
 description: Breaking down the subfields of qualitative communication research
   is like cutting the different parts of an animal for its meat.
 featuredImage: /assets/divinebovine.jpg
