@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: "I’m Going to LEGOLAND!: Web Content Management Part 1"
+title: "I’m Going to LEGOLAND!: Web Content Management"
 slug: /web-content-management-lego
 date: 2020-09-08 12:06
 description: The next wave of content management will treat our content like
