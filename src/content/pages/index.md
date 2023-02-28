@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-Currently a first year graduate student at Virginia Tech School of Communication
+Master's graduate from Virginia Tech School of Communication
