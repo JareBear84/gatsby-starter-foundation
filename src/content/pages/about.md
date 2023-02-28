@@ -1,50 +1,86 @@
 ---
 template: about-page
 slug: /about
-title: About me
+title: About Jared
 ---
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
+Oklahoma transplant and graduate of the Virginia Tech School of Communication where I taught public speaking, hiked the mountains, and occasionally got to perform improv. My thesis research focused on the ontological blurring between humans and artificial intelligence as it related to gender and purchase intent. I come from nearly 10 years of professional marketing and communication experience from large companies such as Walt Disney World® Resort and Wal-Mart, to public sectors like Langston University.
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
+![Jared at the Oklahoma College Public Relations Awards](/assets/ocpra.jpg "Jared Cole Awards")
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+Artificial intelligence (AI) has become an increasingly integrated aspect of daily life. Particularly, businesses have been incorporating AI into many features of their business from customer support to product personalization. My research focuses on whether relationships that form through purchase intention, trust or even sense of agency utilize the same theoretical frameworks with humans as AI or will new theories need to be developed. 
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** *My folks were always on me to groom myself and wear underpants.* What am I, the pope?
+I am looking for opportunities to share my knowledge of communication in a higher education setting and continue following AI communication trends. Also, I would love to connect for further topical discussions, opportunities, or potential research collaborations!
 
-Daddy Bender, we're hungry. We can't compete with Mom! Her company is big and evil! Ours is small and neutral! We're rescuing ya. We'll go deliver this crate like professionals, and then we'll go home.
+**EDUCATION** 
 
-I didn't ask for a completely reasonable excuse! I asked you to get busy! I never loved you. OK, this has gotta stop. I'm going to remind Fry of his humanity the way only a woman can. With a warning label this big, you know they gotta be fun!
+- - -
 
-1. And from now on you're all named Bender Jr.
-2. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
-3. You wouldn't. Ask anyway!
+08/2020 – 04/2023\
+*Virginia Tech School of Communication*\
+MA, Communication\
+Relevant Courses: Reputation Management and PR, Organizational Communication\
+Thesis: Can (S)He Close the Deal? The influence of Purchase Intention Through Gender-Assigned Artificial Intelligence. 
 
-Bender, quit destroying the universe! No! The cat shelter's on to me. Enough about your promiscuous mother, Hermes! We have bigger problems. Fatal. I guess if you want children beaten, you have to do it yourself.
+01/2006 – 12/2008\
+*Oklahoma State University*\
+BA, Journalism and Broadcasting, Emphasis on Public Relations\
+Minor: English 
 
-I decline the title of Iron Cook and accept the lesser title of Zinc Saucier, which I just made up. Uhh… also, comes with double prize money. You mean while I'm sleeping in it? I don't want to be rescued.
+**PROFESSIONAL APPOINTMENTS**  
 
-* You know the worst thing about being a slave? They make you work, but they don't pay you or let you go.
-* And when we woke up, we had these bodies.
-* Spare me your space age technobabble, Attila the Hun!
+- - -
 
-Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute. But, like most politicians, he promised more than he could deliver. I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+09/2014 – 07/2020\
+Communications Specialist, *Langston University*
 
-You mean while I'm sleeping in it? I suppose I could part with 'one' and still be feared… Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Negative, bossy meat creature!
+* Worked on a team to create strategic content to inform and grow the University’s more than 12,000 Facebook, 4,600 Twitter and 4,600 Instagram followers.
+* Primary content editor of www.langston.edu with more than 800 unique website edits annually. Created more than 50 homepage sliding banner graphics annually.
+* Worked on the PR team with the Office of the President to concept and plan marketing and communication campaigns throughout the year.  
+* Assisted with creating press releases, annual reports, merchandising brand approval and other projects requested by the various schools and departments at Langston University. 
 
-Oh God, what have I done? I don't 'need' to drink. I can quit anytime I want! Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually! Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase.
+08/2011 – 07/2013\
+Marketing and Communications Coordinator, *Express Employment Professionals*
 
-Ask her how her day was. In our darkest hour, we can stand erect, with proud upthrust bosoms. Why did you bring us here? I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+* Created and maintained content for the “Movin’ On Up” job seeker blog that averaged more than 7,000 unique visits a week. 
+* Increased content creation by more than 30 percent and increased blog comments by more than 50 percent.
+* Compiled monthly job seeker newsletters that were delivered to more than 300,000 people.
+* Increased open rates by more than 15 percent since 2011. Newsletter received the Women in
+  Communication 2012 Clarion Award.
+* Generated franchise sales newsletters to brokers that averaged 30 percent open rates.
 
-Good news, everyone! I've taught the toaster to feel love! This opera's as lousy as it is brilliant! Your lyrics lack subtlety. You can't just have your characters announce how they feel. That makes me feel angry!
+01/2009 – 07/2011\
+Freelancer, *JaredLee Public Relations*
 
-Hello Morbo, how's the family? You won't have time for sleeping, soldier, not with all the bed making you'll be doing. Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+* Increased community awareness to help the Sapulpa Freemasons gain 10 new members and receive positive membership growth for the first time in more than a decade. 
+* Wrote press releases for the Oklahoma State University Formula Racing Team to pitch to several publications, which earned more than $7,500.  
+* Helped define goals, objectives and strategies for various nonprofit and business organizations like Skyrocket. Served as coordinator or leader for special events for organizations like Sustainable Tulsa.
+* Condensed and simplified corporate or technical jargon for easier access for press, volunteers and employees for companies like Wal-Mart.
 
-My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards. Incidentally, you have a dime up your nose.
+**TEACHING EXPERIENCE**  
 
-You are the last hope of the universe. You know the worst thing about being a slave? They make you work, but they don't pay you or let you go. I meant 'physically'. Look, perhaps you could let me work for a little food? I could clean the floors or paint a fence, or service you sexually?
+- - -
 
-Hey, guess what you're accessories to. I feel like I was mauled by Jesus. Why would a robot need to drink? What are their names? Fry! Quit doing the right thing, you jerk! Doomsday device? Ah, now the ball's in Farnsworth's court!
+08/2021 - 05/2022\
+Graduate\
+*Virginia Tech School of Communication*\
+ Public Speaking - TA  
 
-I saw you with those two "ladies of the evening" at Elzars. Explain that. Shinier than yours, meatbag. That's the ONLY thing about being a slave. Um, is this the boring, peaceful kind of taking to the streets?
+* Performed all assistant teaching duties, including mentoring, lecturing, and grading.
+* Mentored a core of 80 students spread between two classes each semester. 
+* Delivered lectures and supervised group exercises in every scheduled class period. 
+* Graded speeches for all students, providing positive and constructive feedback for each.
 
-Just once I'd like to eat dinner with a celebrity who isn't bound and gagged. Daddy Bender, we're hungry. Kids don't turn rotten just from watching TV. I just want to talk. It has nothing to do with mating. Fry, that doesn't make sense.
+**RESEARCH EXPERIENCE**  
+
+- - -
+
+07/2021 – 08/2021\
+Research Assistant 
+*Virginia Tech School of Communication*\
+Provided assistance to Dr. Mike Horning on research into use of technology to increase tourist engagement with environmental preservation. 
+
+**REFERENCES**
+
+- - -
+
+[Available upon request](mailto:jaredlc@vt.edu)
